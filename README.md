@@ -9,11 +9,6 @@
 <p align="center">
     <em><code>Gene expression analysis and classification using XGBoost and Differential Expression Analysis (DES)</code></em>
 </p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/Saherpathan/BioInnovate?style=flat&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Saherpathan/BioInnovate?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Saherpathan/BioInnovate?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Saherpathan/BioInnovate?style=flat&color=0080ff" alt="repo-language-count">
 <p>
 <p align="center">
 		<em>Developed with Jupyter Notebook.</em>
