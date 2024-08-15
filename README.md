@@ -1,5 +1,6 @@
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/f6dd41da-12e0-486b-bb8d-abaab03eb61a)
+  
+![Header-Image-crop-1024x559](https://github.com/user-attachments/assets/97ac4111-9bd6-4404-bf6e-279ff4bf9be0)
 
 </p>
 <p align="center">
