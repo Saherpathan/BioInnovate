@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://img.icons8.com/?size=512&id=55494&format=png" width="100" />
+  ![image](https://github.com/user-attachments/assets/f6dd41da-12e0-486b-bb8d-abaab03eb61a)
+
 </p>
 <p align="center">
     <h1 align="center">BIOINNOVATE</h1>
@@ -28,6 +29,7 @@
 > - [📂 Repository Structure](#-repository-structure)
 > - [🚀 Getting Started](#-getting-started)
 >   - [⚙️ Installation](#️-installation)
+>   - [🤖 Running Bioinnovate](#-running-bioinnovate)
 > - [🤝 Contributing](#-contributing)
 > - [📄 License](#-license)
 > - [👏 Acknowledgments](#-acknowledgments)
@@ -36,16 +38,16 @@
 
 ## 📍 Overview
 
-<code>►BioInnovate performs gene expression analysis and classification using XGBoost. It includes Differential Expression Analysis (DES) to identify significant gene changes and evaluate model performance.
+<code>BioInnovate performs gene expression analysis and classification using XGBoost. It includes Differential Expression Analysis (DES) to identify significant gene changes and evaluate model performance.
 </code>
 
 ---
 
 ## 📦 Features
 
-<code>►- XGBoost Classification: Utilizes XGBoost for gene expression classification.
-- Differential Expression Analysis (DES): Identifies differentially expressed genes.
-- Visualization: Includes feature importance and correlation heatmaps.</code>
+<code>XGBoost Classification: Utilizes XGBoost for gene expression classification
+Differential Expression Analysis (DES): Identifies differentially expressed genes
+Visualization: Includes feature importance and correlation heatmaps</code>
 
 ---
 
@@ -63,12 +65,12 @@
 
 ## 🧩 Files
 
-<details closed><summary>.</summary>
+<details open><summary>.</summary>
 
 | File                                                                                                    | Summary                         |
 | ---                                                                                                     | ---                             |
-| [Visuals.ipynb](https://github.com/Saherpathan/BioInnovate/blob/master/Visuals.ipynb)                   | <code>► Implements Differential Expression Analysis and visualizations. |
-| [Modeling.ipynb](https://github.com/Saherpathan/BioInnovate/blob/master/iitj_bioinnovate.ipynb) | <code>► Trains and evaluates XGBoost classifier, analyzes feature importance.</code> |
+| [Visuals.ipynb](https://github.com/Saherpathan/BioInnovate/blob/master/Visuals.ipynb)                   | <code>Implements Differential Expression Analysis and visualizations |
+| [Modeling.ipynb](https://github.com/Saherpathan/BioInnovate/blob/master/iitj_bioinnovate.ipynb) | <code>Trains and evaluates XGBoost classifier, analyzes feature importance</code> |
 
 </details>
 
@@ -160,8 +162,14 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 ## 👏 Acknowledgments
 
 - Data: Gene expression data from GSE250323.
-- Libraries: XGBoost, Jupyter Notebook, Seaborn for analysis and visualization.
-- Contributors: 
+- Libraries: XGBoost, Jupyter Notebook, and Seaborn for analysis and visualization.
+
+---
+
+## 👥 Contributors
+- **Saher Pathan** - [GitHub Profile](https://github.com/Saherpathan)  
+- **Khushi Mohurle** - [GitHub Profile]()
+- **Sayali Warkade** - [GitHub Profile]()
 
 [**Return**](#-quick-links)
 
